@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+    color: wheat;
+}
+
+#display,.head{
+    text-align:center;
+}
+
+.container{
+    margin-top: 25vh;
+}
+
+button:hover{
+    background-color: chocolate;
+    color: bisque;
+}
